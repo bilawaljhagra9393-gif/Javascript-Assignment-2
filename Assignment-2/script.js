@@ -32,5 +32,26 @@ console.log (
      password =="Bilawal@4043" &&
      termcondition == "true",
 );
+// Null User
+let User = null;
+console.log(null);
+console.log(typeof null);
+
+
+// Number to string
+let y = 324;
+y = String(y);
+console.log(y);
+
+console.log(typeof y);
+
+// String to Boolean
+let z = true;
+console.log(z);
+
+z = Boolean(z);
+console.log(typeof z);
+
+
 
 
